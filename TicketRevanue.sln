@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketRevanue", "TicketRevanue\TicketRevanue.csproj", "{CDED0613-D59D-4F8C-B8F8-02416B2AD8EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDED0613-D59D-4F8C-B8F8-02416B2AD8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDED0613-D59D-4F8C-B8F8-02416B2AD8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDED0613-D59D-4F8C-B8F8-02416B2AD8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDED0613-D59D-4F8C-B8F8-02416B2AD8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F86886B1-0787-4E9A-B495-19C525769AB0}
+	EndGlobalSection
+EndGlobal
